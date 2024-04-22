@@ -25,3 +25,4 @@ site/public/*
 
 .venv # python venv
 .zeromq.si4project
+.zguide.si4project
